@@ -1,7 +1,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # rru-rf-chassis
-Milled aluminum chassis for the RRU RF board.
+Milled aluminum chassis for the [RRU RF board](https://github.com/M17-Project/rru-rf-hw).
 
 ## License
 This work is licensed under a
